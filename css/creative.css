@@ -283,6 +283,7 @@ div.feature-box div.feature-box-icon i.image-icon.small {
 .service-box {
     margin: 50px auto 0;
     max-width: 400px;
+    text-align: center;
 }
 
 @media(min-width:992px) {
